@@ -1,0 +1,35 @@
+_repo: My-friend-Doggie-or-An-only-child_75465
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Glasgow, G. R. (Geraldine Robertson)
+    alias: Glasgow, Geraldine Robertson
+    gutenberg_agent_id: '8027'
+    url: http://www.gutenberg.org/2009/agents/8027
+description: ''
+gutenberg_issued: '2025-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75465'
+language: en
+pgterms:marc904: https://archive.org/details/myfrienddoggie00glasiala/mode/2up
+pgterms:marc905: 20240718170208glasgow
+pgterms:marc906: '1890'
+pgterms:marc907: GB
+production_note: Bob Taylor, Mairi and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bErnest Nister, $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Christmas -- Juvenile fiction'
+- !lcsh 'Pets -- Juvenile fiction'
+- !lcsh 'Gifts -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: My friend Doggie; or, An only child
+url: http://www.gutenberg.org/ebooks/75465
